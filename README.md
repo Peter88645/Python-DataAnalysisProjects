@@ -1,4 +1,4 @@
-# Python-DataAnalysisProjects-Bilibili
+# Python-DataAnalysisProjects
 ## 这些都是Python数据分析的小项目，主要用来熟悉pandas, numpy 和 matplotlib 这些库
 
 内含详细代码，以及课用ppt
