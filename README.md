@@ -4,6 +4,6 @@
 内含详细代码，以及课用ppt
 课程中用到的数据，在ppt里面有链接，可以从kaggle上自行下载
 
-参考网站来自B站  
+参考课程来自B站  
 链接： https://www.bilibili.com/video/BV1hx411d7jb?p=1
 
